@@ -1,4 +1,4 @@
-#Conversor Decimal -> Binário
+# Conversor Decimal -> Binário
 ```
 import Pilha from "./Pilha";
 
@@ -31,7 +31,7 @@ class DecToBin {
 
 export default DecToBin;
 ```
-##Teste
+## Teste
 ```
 import DecToBin from "../src/DecToBin";
 

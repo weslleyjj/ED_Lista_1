@@ -1,4 +1,4 @@
-#Fila duplamente terminada - Deque
+# Fila duplamente terminada - Deque
 ```
 import Fila from "./Fila";
 
@@ -48,7 +48,7 @@ class Deque {
 }
 export default Deque;
 ```
-##Teste
+## Teste
 ```
 import Deque from "../src/Questao6";
 

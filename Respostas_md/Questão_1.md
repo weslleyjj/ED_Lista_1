@@ -1,4 +1,4 @@
-#Fracao
+# Fracao
 
 ```
 class Fracao {
@@ -26,7 +26,7 @@ class Fracao {
 export default Fracao;
 ```
 
-##Teste
+## Teste
 ```
 import Fracao from "../src/Fracao";
 

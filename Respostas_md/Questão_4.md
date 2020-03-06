@@ -1,4 +1,4 @@
-#Fila implementada por duas pilhas
+# Fila implementada por duas pilhas
 ```
 import Pilha from "./Pilha";
 //FILA A PARTIR DE DUAS PILHAS
@@ -54,7 +54,7 @@ class QueueStack {
 
 export default QueueStack;
 ```
-##Teste
+## Teste
 ```
 import QueueStack from "../src/QueueStack";
 
